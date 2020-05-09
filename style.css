@@ -11,7 +11,7 @@
   padding: 4px;
   display: inline-block;
   text-align: left;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
 }
 
 .profile_div {
@@ -22,7 +22,7 @@
   display: inline-block;
   text-align: left;
   float: left;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
 }
 
 .label_green {
@@ -34,7 +34,7 @@
   display: inline-block;
   text-align: right;
   font-size: 20px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
   font-weight: bold;
 }
 
@@ -42,7 +42,7 @@
 .category {
   color: #FF0000;
   //float: left;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
 }
 
 .button {
@@ -55,7 +55,7 @@
   display: inline-block;
   text-align: left;
   font-size: 14px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
   font-weight: bold;
 }
 
@@ -68,7 +68,7 @@ label {
   display: inline-block;
   text-align: right;
   font-size: 14px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
   font-weight: bold;
 }
 
@@ -80,7 +80,7 @@ label {
   //width: 250px;
   display: inline-block;
   text-align: left;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
 }
 
 .paragraph {
@@ -91,7 +91,7 @@ label {
   display: inline-block;
   text-align: left;
   font-size: 18px;
-  font-family: Open sans-serif;
+  font-family: verdana,helvetica,arial,sans-serif;
 }
 
 .error_top {
@@ -117,7 +117,7 @@ label {
 	width: 100%;
 	height: 60px;
 	color: #FFFFFF;
-	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-family: verdana,helvetica,arial,sans-serif;
 	font-size: 20px;
 	text-align: center;
 }
@@ -128,7 +128,7 @@ label {
 	width: 100%;
 	height: 60px;
 	color: #FFFFFF;
-	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-family: verdana,helvetica,arial,sans-serif;
 	font-size: 20px;
 	text-align: center;
 }
@@ -141,7 +141,7 @@ label {
 	width: 150px;
 	height: 60px;
 	color: #01A3D6;
-	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-family: verdana,helvetica,arial,sans-serif;
 	font-size: 14px;
 	text-align: center;
 	text-decoration: none;
@@ -170,7 +170,7 @@ a:active {
   margin-right: 20px;
   margin-bottom: 4px;
   text-align: right;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
   font-weight: bold;
 }
 
@@ -182,7 +182,7 @@ a:active {
   display: inline-block;
   text-align: right;
   font-size: 14px;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
   font-weight: bold;
 }
 
@@ -191,7 +191,7 @@ a:active {
   margin: 10px;
   display: inline-block;
   text-align: right;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
   font-weight: bold;
 }
 
@@ -203,7 +203,7 @@ a:active {
   width: 80px;
   display: inline-block;
   text-align: right;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: verdana,helvetica,arial,sans-serif;
   font-weight: bold;
 }
 
