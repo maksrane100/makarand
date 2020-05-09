@@ -10,7 +10,7 @@
   margin: 20px;
   padding: 4px;
   display: inline-block;
-  text-align: right;
+  text-align: left;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
@@ -20,7 +20,7 @@
   background-color: #F2FAFF;
   width: 550px;
   display: inline-block;
-  text-align: right;
+  text-align: left;
   float: left;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
@@ -53,7 +53,7 @@
   width: 80px;
   vertical-align: text-center;
   display: inline-block;
-  text-align: right;
+  text-align: left;
   font-size: 14px;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
   font-weight: bold;
@@ -79,7 +79,7 @@ label {
   padding: 4px;
   //width: 250px;
   display: inline-block;
-  text-align: right;
+  text-align: left;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
@@ -89,17 +89,7 @@ label {
   padding: 4px;
   width: 100%;
   display: inline-block;
-  text-align: right;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
-}
-
-.form-control {
-  color: #000000;
-  //margin: 20px;
-  //padding: 20px;
-  //width: 250px;
-  //display: inline-block;
-  //text-align: right;
+  text-align: left;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
@@ -120,26 +110,20 @@ label {
   //text-align: right;
 }
 
-.header4 {
-  background-color: #95D7FE;
-  //margin-left: 10px;
-  float: left;
-  //display: inline-block;
-   //overflow: hidden;
-   width: 100%;
-   text-align: center;
-  //text-align: right;
+.header {
+	background-color: #95D7FE;
+	margin-left: 10px;
+	float: left;
+	width: 100%;
+	text-align: center;
 }
 
-.footer4 {
-  background-color: #95D7FE;
-  //margin-left: 10px;
-  float: left;
-  //display: inline-block;
-   //overflow: hidden;
-   width: 100%;
-   text-align: center;
-  //text-align: right;
+.footer {
+	background-color: #95D7FE;
+	margin-left: 10px;
+	float: left;
+	width: 100%;
+	text-align: center;
 }
 
 .link {
@@ -158,9 +142,6 @@ label {
   color: #037AC1;
   margin-right: 20px;
   margin-bottom: 4px;
-  width: 500px;
-  //width: 250px;
-  //display: inline-block;
   text-align: right;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
   font-weight: bold;
@@ -181,8 +162,6 @@ label {
 .message {
   color: #008000;
   margin: 10px;
-  
-  width: 250px;
   display: inline-block;
   text-align: right;
   font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
@@ -201,21 +180,4 @@ label {
   font-weight: bold;
 }
 
-.form-group {
-	float: left;
-	margin: 4px;
-	display: inline-block;
-	clear: both;
-}
-
-.value {
-  color: #000000;
-  margin-right: 20px;
-  padding: 2px !important;
-  text-align: left;
-  //float: left;
-  width: 250px;
-  display: inline-block;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
-}
 
