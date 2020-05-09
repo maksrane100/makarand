@@ -90,7 +90,8 @@ label {
   width: 100%;
   display: inline-block;
   text-align: left;
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: 14px;
+  //font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
 .error_top {
