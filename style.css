@@ -134,7 +134,15 @@ label {
 
 .link {
 	float: left;
-	margin-left: 20px;
+	margin: 2px;
+	background-color: #95D7FE;
+	float: left;
+	width: 200px;
+	height: 60px;
+	color: #FFFFFF;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: 14px;
+	text-align: center;
 }
 
 .row {
