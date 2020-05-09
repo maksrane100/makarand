@@ -94,6 +94,17 @@ label {
   font-family: verdana,helvetica,arial,sans-serif;
 }
 
+.paragraph_small {
+  color: #000000;
+  margin-right: 20px;
+  padding: 4px;
+  width: 100%;
+  display: inline-block;
+  text-align: left;
+  font-size: 14px;
+  font-family: verdana,helvetica,arial,sans-serif;
+}
+
 .error_top {
   color: red;
   margin-left: 10px;
